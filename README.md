@@ -4,7 +4,7 @@
 - 📚 Undergraduate Computing Student in Glasgow, Scotland.
 - 💻 Researching in variety of projects, finding the current technologies that are used in the industry to better equip myself after further education.
 
-## Catch me on my socials
+## Connect with Me
 
 <a href="https://twitter.com/Aadam_Razak" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="Aadam_Razak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aadam-razak" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="aadam-razak" height="30" width="40" /></a>
