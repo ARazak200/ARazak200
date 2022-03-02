@@ -1,8 +1,8 @@
-# <h2 align="right"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zw1hhadcy7hkoku99net3r6e35bwrafo0wdfho4i&rid=giphy.gif&ct=g" width="180px"> 
-# Hola! My name is Aadam</h2>
+# <h2 align="centre"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zw1hhadcy7hkoku99net3r6e35bwrafo0wdfho4i&rid=giphy.gif&ct=g" width="200px"> Woah</h2>
+# <h2> Hola! My name is Aadam</h2>
 
-- I am Undergraduate Computing Student in Glasgow, Scotland.
-- I am working in variety projects finding the current technologies that are used in the industry.
+- 📚  Undergraduate Computing Student in Glasgow, Scotland.
+- 💻 Researching in variety of projects, finding the current technologies that are used in the industry to better equip myself after education.
 
 ## Catch me on my socials
 
