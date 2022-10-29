@@ -1,7 +1,7 @@
 # <div align="centre"><img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47zw1hhadcy7hkoku99net3r6e35bwrafo0wdfho4i&rid=giphy.gif&ct=g" width="200px"></div>
 # <h2 align="left"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Good to meet you</h2>
 
-- 📚 Undergraduate Computing Student in Glasgow, Scotland.
+- 📚 Computing Student in Glasgow, Scotland.
 - 💻 Researching in variety of projects, finding the current technologies that are used in the industry to better equip myself after further education.
 - 🌆Glaswegian, with a passion for software development where I can help people and me grow my career in the IT industry.
 
