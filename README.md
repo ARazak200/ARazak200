@@ -23,6 +23,7 @@ Click to learn more about what I used day to day</p>
 <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="visualstudiocode.svg" alt="vs-code" width="40" height="40"/></a>
 <a href="https://trello.com/" target="_blank"> <img src="trello.svg" alt="Trello" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a> 
 
 </p> 
 
