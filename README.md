@@ -6,10 +6,7 @@
 - 🌆Glaswegian, with a passion for software development where I can help people and me grow my career in the IT industry.
 
 ## Connect with Me
-
-<a href="https://twitter.com/Aadam_Razak" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" alt="Aadam_Razak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aadam-razak" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="aadam-razak" height="30" width="40" /></a>
-<a href="https://instagram.com/aadamrazak" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" alt="aadamrazak" height="30" width="40" /></a>
 <a href="https://www.strava.com/athletes/14214170" target="blank"><img align="center" src="strava.svg" alt="aadamrazak" height="30" width="40" /></a>
 
 ## Languages and Tools:
