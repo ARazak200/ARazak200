@@ -30,7 +30,7 @@ Click to learn more about what I used day to day</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arazak200&layout=compact&theme=dark&hide_border=true&&bg_color=0d1117&langs_count=8)](https://github.com/arazak200/github-readme-stats)
 
 ![Aadam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arazak200&count_private=true&show_icons=true&hide_border=true&&bg_color=0d1117&ring=0088fe&icon_color=0088ff&theme=algolia)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arazak200&background=0d1117&ring=0088ff&fire=0088ff&currStreakLabel=0088ff&hide_border=true&theme=dark)](https://git.io/streak-stats)
+# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arazak200&background=0d1117&ring=0088ff&fire=0088ff&currStreakLabel=0088ff&hide_border=true&theme=dark)](https://git.io/streak-stats)
 
 ### Credits
 [Neel Akolkar](https://github.com/ne3lakolkar)
