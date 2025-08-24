@@ -3,7 +3,7 @@
 
 - 📚 Graduate BSc (Hons) Computing from Glasgow, Scotland.
 - 💻 Researching in variety of projects, finding the current technologies that are used in the industry to better equip myself after further education.
-- 🌆Glaswegian, with a passion for software development where I can help people and me grow my career in the IT industry.
+- 🌆Glaswegian, with a passion for software development where I can help people and grow my career in the IT industry.
 
 ## Connect with Me
 <a href="https://linkedin.com/in/aadam-razak" target="blank"><img align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" alt="aadam-razak" height="30" width="40" /></a>
